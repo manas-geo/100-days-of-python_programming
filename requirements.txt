@@ -1,0 +1,18 @@
+# Needed from Day 81 onwards (a few earlier days also use requests, flask, beautifulsoup4 and pytest)
+jupyter
+numpy
+pandas
+matplotlib
+requests
+beautifulsoup4
+flask
+pytest
+tzdata      # Needed on Windows for time zones (Day 74)
+
+# Optional, for Day 99 (GIS libraries)
+# geopandas
+# rasterio
+# shapely
+# pyproj
+# folium
+# scikit-learn

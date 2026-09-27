@@ -1,0 +1,25 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# jupyter
+.ipynb_checkpoints/
+
+# files the notebooks create when you run them
+*.db
+*.log
+*.csv
+*.xlsx
+*.png
+*.json
+!requirements.txt
+
+# os / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
